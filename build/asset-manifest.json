@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.219b3b6a.css",
+    "main.js": "/static/js/main.389fcb09.js",
+    "static/media/1564676296-national-geographic.mp4": "/static/media/1564676296-national-geographic.bf1b675d8d0beb6c25bc.mp4",
+    "static/media/1608229455-star-wars.mp4": "/static/media/1608229455-star-wars.90fa9f5ae993d23505b5.mp4",
+    "static/media/login-background.jpg": "/static/media/login-background.05b1a1b3088cbb458939.jpg",
+    "static/media/1564676714-pixar.mp4": "/static/media/1564676714-pixar.971baf2b0d1f60c27f42.mp4",
+    "static/media/1564674844-disney.mp4": "/static/media/1564674844-disney.76f717a34732ff5c5752.mp4",
+    "static/media/1564676115-marvel.mp4": "/static/media/1564676115-marvel.25a822f51e652dec1417.mp4",
+    "static/media/home-background.png": "/static/media/home-background.a0c4bdd961442f1bc8b1.png",
+    "static/media/slider-scale.jpg": "/static/media/slider-scale.172c6eadbd086a14e2b2.jpg",
+    "static/media/slider-badag.jpg": "/static/media/slider-badag.36599446c404fd8b5989.jpg",
+    "static/media/slider-scales.jpg": "/static/media/slider-scales.f921e314b30619f8ab7d.jpg",
+    "static/media/slider-badging.jpg": "/static/media/slider-badging.b33dd5b6b1aab9795814.jpg",
+    "static/media/Avenir-Medium.woff2": "/static/media/Avenir-Medium.efe1fd0d58301f3d1e05.woff2",
+    "static/media/Avenir-Roman.woff2": "/static/media/Avenir-Roman.7c94a37f215e0aac2e84.woff2",
+    "static/media/Avenir-Heavy.woff2": "/static/media/Avenir-Heavy.af43c184e2ddd84016a2.woff2",
+    "static/media/Avenir-Light.woff2": "/static/media/Avenir-Light.800ae2100a48ba7a5122.woff2",
+    "static/media/viewers-starwars.png": "/static/media/viewers-starwars.3fb2e20c0faee83d89db.png",
+    "static/media/viewers-disney.png": "/static/media/viewers-disney.eb5bab59e7bf29389dc7.png",
+    "static/media/viewers-national.png": "/static/media/viewers-national.c50dd65f4a3d07a590f7.png",
+    "static/media/logo.svg": "/static/media/logo.8205aae82a3c67ca943e8628e2183b0d.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.219b3b6a.css.map": "/static/css/main.219b3b6a.css.map",
+    "main.389fcb09.js.map": "/static/js/main.389fcb09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.219b3b6a.css",
+    "static/js/main.389fcb09.js"
+  ]
+}

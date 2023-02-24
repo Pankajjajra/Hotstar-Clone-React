@@ -1,0 +1,60 @@
+/* Fonts */
+@font-face {
+    font-family: Avenir;
+    src: url("./assets/fonts/Avenir-Light.woff2");
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir;
+    src: url("./assets/fonts/Avenir-Roman.woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir;
+    src: url("./assets/fonts/Avenir-Medium.woff2");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Avenir;
+    src: url("./assets/fonts/Avenir-Heavy.woff2");
+    font-weight: 900;
+    font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* General Styles */
+html,
+body {
+    overflow-x: hidden;
+}
+body {
+    background-color: #040417;
+    color: #f9f9f9;
+    font-family: Avenir;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeSpeed;
+}
+
+/* Responsive Fonts */
+@media only screen and (min-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 479px) {
+    body {
+        font-size: 14px;
+    }
+}
